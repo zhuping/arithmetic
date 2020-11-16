@@ -45,4 +45,18 @@ var reverse = function(x) {
 }
 ```
 
+### 好的思路
+
+根据数学方法推导，‘弹出’和‘推入’计算
+
+```js
+//pop operation:
+pop = x % 10;
+x /= 10;
+
+//push operation:
+temp = rev * 10 + pop;
+rev = temp;
+```
+
 * [题目地址](https://leetcode-cn.com/problems/reverse-integer/)
