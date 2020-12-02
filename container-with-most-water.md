@@ -6,7 +6,7 @@
 
 ### 示例 1：
 
-![](https://aliyun-lc-upload.oss-cn-hangzhou.aliyuncs.com/aliyun-lc-upload/uploads/2018/07/25/question_11.jpg)
+![1](https://aliyun-lc-upload.oss-cn-hangzhou.aliyuncs.com/aliyun-lc-upload/uploads/2018/07/25/question_11.jpg)
 
 ```
 输入：[1,8,6,2,5,4,8,3,7]
