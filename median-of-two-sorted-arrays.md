@@ -41,7 +41,7 @@
 
 ### 个人答案
 
-则当N为奇数时，![](https://bkimg.cdn.bcebos.com/formula/369410329320c73428e6e00bfda20122.svg)；当N为偶数时，![](https://bkimg.cdn.bcebos.com/formula/f0f3f443e3bc3e7a8bacf371ae430bda.svg)。
+则当N为奇数时，![](./images/1.svg)；当N为偶数时，![](./images/2.svg)。
 
 ```
 var findMedianSortedArrays = function(nums1, nums2) {
